@@ -1,0 +1,8 @@
+.wrapper {
+  width: 90%;
+  margin-top: 10px;
+  border-radius: 13px;
+  background: #592c2c;
+  box-shadow: inset 8px 8px 90px #3f1f1f, inset -8px -8px 16px #733939;
+  color: whitesmoke;
+}

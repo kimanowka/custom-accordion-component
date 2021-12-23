@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 430px;
+  border-radius: 24px;
+  background: #b1a5a5;
+  box-shadow: inset 16px 16px 32px #7e7575, inset -16px -16px 32px #e4d5d5;
+}
